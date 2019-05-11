@@ -15,3 +15,6 @@
 # Test
 * Download or clone this repository
 * Open the card.html with browser (Recommended: Google Chrome or Firefox)
+
+# Demo 
+![Demo](https://github.com/JIMLYY/Animal_Trading_Card/blob/master/Demo.png "Demo")
